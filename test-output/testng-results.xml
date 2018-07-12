@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="240748" started-at="2018-05-23T05:43:55Z" finished-at="2018-05-23T05:47:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="240748" started-at="2018-05-23T05:43:55Z" finished-at="2018-05-23T05:47:56Z">
+      <class name="NewTest">
+        <test-method status="PASS" signature="webdrivertestie(java.lang.String, java.lang.String)[pri:0, instance:NewTest@53f65459]" name="webdrivertestie" duration-ms="240705" started-at="2018-05-23T05:43:55Z" data-provider="logincred" finished-at="2018-05-23T05:47:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pradeep.kumar2@starwoodhotels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Annapurnama@2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webdrivertestie -->
+      </class> <!-- NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
